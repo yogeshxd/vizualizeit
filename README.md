@@ -6,4 +6,5 @@ A simple code to visualize data using diffrenet ploting methods.
 Here's a demo of each ploting method : 
 
 <h4>Scatter plot with colour groupings</h4>
+
 ![sc](/demo/scatter.png)
