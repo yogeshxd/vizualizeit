@@ -8,3 +8,7 @@ Here's a demo of each ploting method :
 <h2>Scatter plot with colour groupings</h2>
 
 ![sc](/demo/scatter.png)
+
+<h2>Scatter plot with colour groupings and size encoding for the third variable of country size</h2>
+
+![sc2](/demo/color.png)
