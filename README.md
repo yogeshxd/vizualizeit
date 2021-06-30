@@ -25,6 +25,8 @@ Here's a demo of each ploting method :
 
 ![ov](/demo/over.png)
 
+Sorry for me trying to create middle finge in histogram xd
+
 <h2>Bar Plot</h2>
 
 ![bar](/demo/bar.png)
